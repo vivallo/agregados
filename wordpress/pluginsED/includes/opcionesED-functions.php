@@ -1,6 +1,6 @@
 <?php
 
-add_action( 'cmb2_admin_init', 'opcionesCyR' );
+add_action( 'cmb2_admin_init', 'opcionesED' );
 add_action( 'cmb2_admin_init', 'opcionesCyRubicar' );
 add_action( 'cmb2_admin_init', 'opcionesCyRvitrina' );
 add_action( 'cmb2_admin_init', 'opcionesCyRservicio' );
@@ -11,7 +11,7 @@ add_action( 'cmb2_admin_init', 'opcionesCyRperfil' );
 
 
 /* -------- ** comienza opciones GENERALES ------- */
-function opcionesCyR() {
+function opcionesED() {
 
 /* -------- ** comienza sección General ** ------- */
 
