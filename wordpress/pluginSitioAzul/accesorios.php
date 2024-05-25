@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Accesorios de Sitio Azul
+Plugin Name: Agregados de Sitio Azul
 Plugin URI: https://github.com/vivallo/agregados/tree/main/wordpress/pluginSitioAzul
 Description: Este plugin es para crear varias partes que necesita Sitio Azul
 Version: 1.0.0
