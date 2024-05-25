@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Post Type y Funciones ED
-Plugin URI: https://github.com/vivallo/
+Plugin URI: https://github.com/vivallo/agregados/tree/main/wordpress/pluginsED
 Description: Este plugin es para crear los post-type y funciones de Extintores a Domicilio
 Author: Web Grafica
 Author URI: https://webgrafica.cl/
