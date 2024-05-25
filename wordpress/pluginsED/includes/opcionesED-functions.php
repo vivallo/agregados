@@ -1,7 +1,7 @@
 <?php
 
 add_action( 'cmb2_admin_init', 'opcionesED' );
-add_action( 'cmb2_admin_init', 'opcionesCyRubicar' );
+add_action( 'cmb2_admin_init', 'opcionesEDubicar' );
 add_action( 'cmb2_admin_init', 'opcionesCyRvitrina' );
 add_action( 'cmb2_admin_init', 'opcionesCyRservicio' );
 add_action( 'cmb2_admin_init', 'opcionesCyRsomos' );
@@ -66,7 +66,7 @@ function opcionesED() {
 
 
 /* -------- ** comienza opciones de UBICACIÓN ** ------- */
-function opcionesCyRubicar() { 
+function opcionesEDubicar() { 
   $secondary_options = new_cmb2_box( array(
 		'id'           => 'opciones_ubicacion',
 		'title'        => esc_html__( 'Ubicación', 'cmb2' ),
