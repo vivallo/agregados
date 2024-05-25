@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Post Type y Funciones CyR
-Plugin URI: https://webgrafica.cl/
+Plugin Name: Post Type y Funciones ED
+Plugin URI: https://github.com/vivallo/
 Description: Este plugin es para crear los post type y funciones de CyR Extintores 
 Author: Web Grafica
 Author URI: https://webgrafica.cl/
