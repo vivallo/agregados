@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Accesorios de Sitio Azul
-Plugin URI: https://webgrafica.cl
+Plugin URI: https://github.com/vivallo/agregados/tree/main/wordpress/pluginSitioAzul
 Description: Este plugin es para crear varias partes que necesita Sitio Azul
 Version: 1.0.0
 Author: Darwin Vivallo
