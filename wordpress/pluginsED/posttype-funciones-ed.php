@@ -8,7 +8,7 @@ Author URI: https://webgrafica.cl/
 Version: 1.0.0
 */
 
-require_once plugin_dir_path(__FILE__) . 'includes/ptCyR-functions.php';
-require_once plugin_dir_path(__FILE__) . 'includes/opcionesCyR-functions.php';
-require_once plugin_dir_path(__FILE__) . 'includes/metaboxCyR-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/ptED-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/opcionesED-functions.php';
+require_once plugin_dir_path(__FILE__) . 'includes/metaboxED-functions.php';
 ?>
