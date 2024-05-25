@@ -20,7 +20,7 @@ function opcionesCyR() {
 		'title'         => esc_html__( 'General', 'cmb2' ),
 		'object_types'  => array( 'options-page' ),
 		'option_key'    => 'OpcionCyRgeneral',
-    'parent_slug'   => 'opcionesCyR-functions.php',
+    'parent_slug'   => 'opcionesED-functions.php',
 	) );
   
 	$cmb_options->add_field( array(
@@ -72,7 +72,7 @@ function opcionesCyRubicar() {
 		'title'        => esc_html__( 'Ubicación', 'cmb2' ),
 		'object_types' => array( 'options-page' ),
 		'option_key'   => 'OpcionCyRubicacion',
-		'parent_slug'  => 'opcionesCyR-functions.php',
+		'parent_slug'  => 'opcionesED-functions.php',
 	) );
  
 	/* direcciones */
@@ -250,7 +250,7 @@ function opcionesCyRvitrina() {
 		'title'         => esc_html__( 'Vitrina (slide)', 'cmb2' ),
 		'object_types'  => array( 'options-page' ),
 		'option_key'    => 'OpcionCyRvitrina',
-    'parent_slug'  => 'opcionesCyR-functions.php',
+    'parent_slug'  => 'opcionesED-functions.php',
 	) );
   
   
@@ -332,7 +332,7 @@ function opcionesCyRservicio() {
 		'title'        => esc_html__( 'Servicios', 'cmb2' ),
 		'object_types' => array( 'options-page' ),
 		'option_key'   => 'OpcionCyRservicios',
-		'parent_slug'  => 'opcionesCyR-functions.php',
+		'parent_slug'  => 'opcionesED-functions.php',
 	) );
   
 	$servicios_opciones->add_field( array(
@@ -399,7 +399,7 @@ function opcionesCyRsomos() {
 		'title'        => esc_html__( 'Somos', 'cmb2' ),
 		'object_types' => array( 'options-page' ),
 		'option_key'   => 'OpcionCyRsomos',
-		'parent_slug'  => 'opcionesCyR-functions.php',
+		'parent_slug'  => 'opcionesED-functions.php',
 	) );
   
 	$somos_options->add_field( array(
@@ -486,7 +486,7 @@ function opcionesCyRproducto() {
 		'title'        => esc_html__( 'Productos', 'cmb2' ),
 		'object_types' => array( 'options-page' ),
 		'option_key'   => 'OpcionCyRproductos',
-		'parent_slug'  => 'opcionesCyR-functions.php',
+		'parent_slug'  => 'opcionesED-functions.php',
 	) );
   
 	$productos_options->add_field( array(
@@ -515,7 +515,7 @@ function opcionesCyRcliente() {
 		'title'        => esc_html__( 'Clientes', 'cmb2' ),
 		'object_types' => array( 'options-page' ),
 		'option_key'   => 'OpcionCyRclientes',
-		'parent_slug'  => 'opcionesCyR-functions.php',
+		'parent_slug'  => 'opcionesED-functions.php',
 	) );
   
 	$clientes_options->add_field( array(
